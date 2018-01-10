@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+		<path id="websphere.runtime.classpath.pathdef">
+			<fileset dir="${websphereHome.dir}">
+				<include name="lib/**/*.jar" />
+			</fileset>
+		</path>
